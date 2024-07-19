@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liliana!
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python and Powershell
+- 🌱 I’m currently learning SQL, Excel, Data visualization, and Python. 
 - 📫 How to reach me 
 - ⚡ Fun fact: ...
 
